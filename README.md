@@ -27,7 +27,7 @@ bash: pip install -r requirements.txt
 Installation:
 Clone the repository:
 
-bash: git clone https://github.com/yourusername/charity-navigator-scraper.git
+bash: git clone https://github.com/zsifat/Charity-Navigator-Scrape.git
 bash: cd charity-navigator-scraper
 
 Install the dependencies:

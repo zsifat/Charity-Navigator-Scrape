@@ -17,3 +17,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+git clone https://github.com/zsifat/Charity-Navigator-Scrape.git
+cd Charity_Navigator_scraper
+
